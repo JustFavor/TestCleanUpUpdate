@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>CleanUpOffline</title>
+        <item>
+            <title>1.0.1</title>
+            <pubDate>Tue, 19 Mar 2024 11:24:03 +0800</pubDate>
+            <sparkle:version>2024041901</sparkle:version>
+            <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>10.15</sparkle:minimumSystemVersion>
+            <enclosure url="https://raw.githubusercontent.com/JustFavor/TestXAppUpdate/master/CleanUpOffline.app.zip" length="31367697" type="application/octet-stream" sparkle:edSignature="r6Ld5POkpp89nw0pYHZ661uTbgTwfRCN7PDgMsic5ApSv5GI+a6Ege8KZjkGAZBZuc5xsMEzvRaLiSaluRBEAA=="/>
+        </item>
+    </channel>
+</rss>
